@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+// Include your main PHP file that runs the game
+require __DIR__ . '/../guesser.php'; // Adjust the path if your main script is elsewhere

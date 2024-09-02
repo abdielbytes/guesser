@@ -1,0 +1,15 @@
+{
+    "name": "abdiel/guesser",
+    "description": "A simple CLI-based number guessing game",
+    "type": "project",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "NumberGuessingGame\\": "src/"
+      }
+    },
+    "bin": [
+      "bin/guessing-game"
+    ]
+  }
+  
